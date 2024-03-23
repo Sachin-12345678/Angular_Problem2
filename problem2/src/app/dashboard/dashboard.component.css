@@ -1,0 +1,32 @@
+.dashboard {
+    max-width: 1000px;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  input {
+    padding: 8px;
+    width: 30%;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #e2cccc;
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #e46969;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  th:hover {
+    background-color: #b0abab;
+  }
+  
